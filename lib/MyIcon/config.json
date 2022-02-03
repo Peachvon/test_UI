@@ -1,0 +1,58 @@
+{
+  "name": "MyIcon",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "cd21cbfb28ad4d903cede582157f65dc",
+      "css": "bell",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "671f29fa10dda08074a4c6a341bb4f39",
+      "css": "bell-alt",
+      "code": 61683,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "11b58316d8ac4415965cbbb6a09f3047",
+      "css": "tune",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "0a4d0043fc0e31e20b68c68a0c8722ab",
+      "css": "map_marker",
+      "code": 61505,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "1dfd9f676263a7ea0f73eeef3a9ff9fc",
+      "css": "map_marker_alt",
+      "code": 62405,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "032bd8bbd70adf90ead98b6813bfe446",
+      "css": "newspaper",
+      "code": 61930,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0bda4bc779d4c32623dec2e43bd67ee8",
+      "css": "gauge",
+      "code": 61668,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c053ebe321823b081483d332b06eee54",
+      "css": "gauge-1",
+      "code": 59394,
+      "src": "elusive"
+    }
+  ]
+}
